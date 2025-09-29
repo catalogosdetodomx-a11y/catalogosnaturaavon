@@ -1,7 +1,7 @@
 {
   "titulo": "Catálogos Digitales México",
   "botones": [
-    { "texto": "Catálogo Natura 2025", "json": "natura2025.json" },
-    { "texto": "Catálogo Avon 2025", "json": "avon2025.json" }
+    { "texto": "Catálogo c 15", "json": "https://catalogosdetodomx-a11y.github.io/catalogosnaturaavon/adelantado.json" },
+    { "texto": "Catálogo c 14", "json": "https://catalogosdetodomx-a11y.github.io/catalogosnaturaavon/actual.json" }
   ]
 }
