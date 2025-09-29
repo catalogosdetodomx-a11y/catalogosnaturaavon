@@ -2,14 +2,14 @@
   "titulo": "Catálogos Digitales México",
   "botones": [
     {
-      "texto": "Catálogo  2025",
+      "texto": "Catálogo ciclo 15",
       "tema": "Natura ciclo 15 2025",
       "base_url": "https://nuevasrevistas.com/revistas/mx/natura/2025_catalogo_15/",
       "total_paginas": 160,
       "extension": ".webp"
     },
     {
-      "texto": "Catálogo  2025",
+      "texto": "Catálogo ciclo 14",
       "tema": "Natura ciclo 14 2025",
       "base_url": "https://nuevasrevistas.com/revistas/mx/natura/2025_catalogo_14/",
       "total_paginas": 160,
