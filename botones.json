@@ -1,0 +1,11 @@
+{
+  "titulo": "Catálogos Natura México",
+  "tema": "Catálogo Actual Natura",
+  "botones": [
+    { "texto": "Catálogo Actual", "json": "catalogo_actual.json" },
+    { "texto": "Catálogo Adelantado", "json": "catalogo_adelantado.json" }
+  ],
+  "base_url": "https://nuevasrevistas.com/revistas/mx/natura/2025_catalogo_14/",
+  "total_paginas": 160,
+  "extension": ".webp"
+}
