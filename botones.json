@@ -2,18 +2,28 @@
   "titulo": "Catálogos Digitales México",
   "botones": [
     {
+      "texto": "Pendiente",
+      "tema": "Catálogo pendiente",
+      "base_url": "",
+      "total_paginas": 0,
+      "extension": "",
+      "color": "blue"
+    },
+    {
       "texto": "Catálogo ciclo 15",
       "tema": "Natura ciclo 15 2025",
       "base_url": "https://nuevasrevistas.com/revistas/mx/natura/2025_catalogo_15/",
       "total_paginas": 160,
-      "extension": ".webp"
+      "extension": ".webp",
+      "color": "orange"
     },
     {
       "texto": "Catálogo ciclo 14",
       "tema": "Natura ciclo 14 2025",
       "base_url": "https://nuevasrevistas.com/revistas/mx/natura/2025_catalogo_14/",
       "total_paginas": 160,
-      "extension": ".webp"
+      "extension": ".webp",
+      "color": "orange"
     }
   ]
 }
